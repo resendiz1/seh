@@ -50,6 +50,10 @@
                         <a class="text-white" href="{{route('edit_extintores')}}">Edit extintor</a>
                     </div>
 
+                    <div class="col-3 mt-3">
+                        <a class="text-white" href="{{route('comisiones')}}">Comisiones</a>
+                    </div>
+
                 </div>
             </div>
         </div>

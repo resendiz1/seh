@@ -187,11 +187,11 @@
               
                             <div class="row justify-content-around">
                                 {{-- Tarjetita de los extintores --}}
-                                <div class="col-3 border p-2">
+                                <div class="col-sm-4 col-md-2 col-lg-1 border p-2">
                                     <div class="row justify-content-center">
 
                                         <div class="col-12 text-center">
-                                            <h5>Extintor #100</h5>
+                                            <h5>#100</h5>
                                         </div>
 
                                         <div class="col-12 text-center">
@@ -225,7 +225,7 @@
 
                             <div class="row justify-content-around">
                                 {{-- Tarjetita de los extintores --}}
-                                <div class="col-3 border p-2">
+                                <div class="col-sm-4 col-md-2 col-lg-1 border p-2">
                                     <div class="row justify-content-center">
 
                                         <div class="col-12 text-center">
@@ -265,15 +265,15 @@
 
                             <div class="row justify-content-around">
                                 {{-- Tarjetita de los extintores --}}
-                                <div class="col-3 border p-2">
+                                <div class="col-sm-4 col-md-2 col-lg-1 border p-2">
                                     <div class="row justify-content-center">
 
                                         <div class="col-12 text-center">
-                                            <h5>Extintor #100</h5>
+                                            <h5>#100</h5>
                                         </div>
 
                                         <div class="col-12 text-center">
-                                            <img src="https://www.vallen.com.mx/on/demandware.static/-/Sites-vallen-master-catalog/default/dwdf971d84/images/large/C008F01_500_1.jpg" class="img-fluid" alt="">
+                                            <img src="https://www.vallen.com.mx/on/demandware.static/-/Sites-vallen-master-catalog/default/dwdf971d84/images/large/C008F01_500_1.jpg" class="img-fluid " alt="">
                                         </div>
 
                                         <div class="col-9 mt-3">

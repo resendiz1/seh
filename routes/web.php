@@ -22,3 +22,5 @@ Route::view('/menu/p1/extintores', 'planta1.extintores')->name('extintores_p1');
 Route::view('/menu/p1/extintores/ficha', 'planta1.ficha_extintor')->name('ficha_extintor');
 
 Route::view('/menu/p1/extintores/editar', 'planta1.editar_extintor')->name('edit_extintores');
+
+Route::view('/menu/p1/comision', 'planta1.comisiones')->name('comisiones');
